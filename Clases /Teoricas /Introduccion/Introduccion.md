@@ -15,7 +15,7 @@ La UIT-T X.805 es una recomendación de la Unión Internacional de Telecomunicac
 ### Dimensiones de seguridad
 
 <div>
-    <img src="image.png" width="400"/>
+    <img src="image.png" width="400" />
 </div>
 
 - **Autenticación**: Quien pretende acceder a la información o al sistema informatico es quien dice ser. Es una prueba de identidad. Algunos ejemplos puede ser un secreto compartido, una firma digital, un certificado digital, una PKI(Public Key Infrastructure), etc.
